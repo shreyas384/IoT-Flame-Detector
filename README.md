@@ -10,7 +10,7 @@ An IoT-based flame detection system that alerts users locally (buzzer) and remot
 - Clean repo structure with templates for docs and setup guides.
 
 ## Hardware (example)
-- ESP8266 (NodeMCU / Wemos D1 mini)
+- ESP8266
 - Flame sensor module (digital OUT)
 - Active buzzer
 - Jumper wires, breadboard
