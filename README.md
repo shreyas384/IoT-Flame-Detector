@@ -39,7 +39,7 @@ IoT-Flame-Detector/
 ├─ .gitignore
 ├─ hardware/
 │  ├─ components_list.md
-│  └─ PLACEHOLDER.txt          # Put circuit images here
+│  └─ PLACEHOLDER
 ├─ firmware/
 │  ├─ flame_detector.ino
 │  └─ config.example.h
