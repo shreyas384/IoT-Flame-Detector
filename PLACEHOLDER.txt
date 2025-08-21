@@ -1,1 +1,0 @@
-Add your circuit diagram image(s) here (e.g., `circuit_diagram.png`).
